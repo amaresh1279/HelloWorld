@@ -1,0 +1,1 @@
+bin  newFile.txt  readme_new.txt  src
